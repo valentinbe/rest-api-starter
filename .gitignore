@@ -1,0 +1,7 @@
+node_modules
+server/**/*.js
+server/**/*.js.map
+typings
+/npm-debug.log
+.env
+dist
